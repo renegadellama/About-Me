@@ -8,3 +8,19 @@ h1 {
 * {
   background-color: grey;
 }
+
+body {
+  c
+}
+#trump {
+  border: 15px solid gold;
+}
+
+#pigbike {
+  border: 15px solid pink;
+}
+.pet {
+  border: 10px dashed red;
+  height:400px;
+  width:600px;
+}
