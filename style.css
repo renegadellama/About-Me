@@ -1,0 +1,48 @@
+* {
+  background-color: grey;
+
+
+}
+
+h1 {
+  height:auto;
+  width:auto;
+  margin:auto;
+  position: fixed;
+  border-width: 10px;
+  border-style: solid;
+  border-top-color: black;
+  border-bottom-color: black;
+  border-left-color: grey;
+  border-right-color: grey;
+  background-color: red;
+  z-index: 10;
+  font-family: impact;
+  text-align: center;
+}
+
+ #booklist{
+  margin-top: 100px;
+  position: static;
+  float: left;
+  border-spacing: 10px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  padding: 5px;
+  width: 400px;
+  height::300px;
+
+}
+
+#foodlist{
+  margin-top: 100px;
+  position: static;
+  float: right;
+  border-spacing: 10px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  padding: 5px;
+
+}
